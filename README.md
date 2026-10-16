@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&height=60&lines=UI%2FUX%3A+Pixel+perfect+%28ish%29;Frontend%3A+Centers+divs+for+a+living;API%3A+Returns+200+with+an+error;Backend%3A+Works+on+my+machine;Database%3A+SELECT+%2A+FROM+coffee%3B;Security%3A+Trust+nothing.+Hash+it.;Network%3A+It%27s+always+DNS;DevOps%3A+Deploys+on+Friday" alt="One developer, every layer: UI/UX, frontend, API, backend, database, security, networking, DevOps." />
-
 <br>
 
 <a href="mailto:stardustpelt@proton.me"><img src="https://img.shields.io/badge/stardustpelt%40proton.me-0D1117?style=for-the-badge&logo=protonmail&logoColor=00D9FF" alt="Email" /></a>
